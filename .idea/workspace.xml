@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72898638-717f-4d9b-a931-575aa2079395" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/out/production/AdapterPattern/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/out/production/AdapterPattern/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/out/production/AdapterPattern/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/out/production/AdapterPattern/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/out/production/AdapterPattern/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/artifacts/Algorytmy__1__jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/Algorytmy (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/artifacts/Pathfinding/Run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/artifacts/Pathfinding/pathfinding.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/Algorithms/creating/Maze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/Algorithms/solving/Astar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/Algorithms/solving/Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/input/InputControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/main/AppPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/Button.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/ControlPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/InfoBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/InfoMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/LegendElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/out/production/Algorytmy (1)/objects/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/Algorithms/creating/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/Algorithms/solving/Astar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/Algorithms/solving/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/input/InputControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/main/AppPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/ControlPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/InfoBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/InfoMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/LegendElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytm/Algorytmy (1)/src/objects/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/DownCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/Invoker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/LightBulb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/OffCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/OnCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/out/production/Command Pattern/com/company/UpCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/DownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/OffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/OnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Pattern/src/com/company/UpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/AddDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/Beverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/CaramelDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/Decaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/Espresso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/Late.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/out/production/Decorator Pattern/com/company/SoyDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/AddDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/CaramelDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/Late.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorator Pattern/src/com/company/SoyDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/Facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/Brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/IcyTowerFINAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/META-INF/IcyTowerFINAL.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/main/AppPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/main/Intersects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/objects/Brick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/objects/Hipek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/out/production/IcyTowerFINAL/objects/Platform.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/main/AppPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/main/Intersects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/objects/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/objects/Hipek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IcyTowerFINAL/src/objects/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/LCDDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/Observable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/SmartphoneDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/out/production/ObserverPattern/com/company/ob/TemperatureStation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/LCDDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/SmartphoneDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/com/company/ob/TemperatureStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pong" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/Practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/out/production/Practise/JPanelBackgroundColorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/out/production/Practise/Tone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/out/production/Practise/thirdOption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/src/Tone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/src/thirdOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/Prep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/out/production/Prep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/out/production/Prep/Multiply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortVisualization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/behaviours/DisplayBehaviour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/behaviours/FlyBehaviour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/behaviours/QuackBehaviour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/displaying/DisplayAsGraphics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/displaying/DisplayAsText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/flying/JetFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/flying/NoFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/flying/NormalFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/lala/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/quacking/LoudQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/quacking/NoQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/out/production/StrategyPattern/com/company/quacking/QuietQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/behaviours/DisplayBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/behaviours/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/behaviours/QuackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/displaying/DisplayAsGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/displaying/DisplayAsText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/flying/JetFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/flying/NoFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/flying/NormalFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/lala/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/quacking/LoudQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/quacking/NoQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrategyPattern/src/com/company/quacking/QuietQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/TestDoWasko.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/out/production/TestDoWasko/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDoWasko/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProjects/AppPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProjects/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProjects/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pong/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PS2sgioA67cIfNl0Rute8622aE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72898638-717f-4d9b-a931-575aa2079395" name="Default Changelist" comment="" />
+      <created>1565853384374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565853384374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
